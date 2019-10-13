@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+body {
+  padding: 40px;
+}
+
+.json {
+  font-family: 'Source Code Pro',
+    monospace;
+  font-size: 13px;
+  white-space: pre-wrap;
+}
+
+.erro {
+  margin-top: 10px;
+  color: crimson;
+  font-size: 12px;
+}
+
+.tabela-simplex {
+  text-align: center !important;
+}
+
+.ajuste {
+  color: crimson;
+  font-weight: 900;
+}
